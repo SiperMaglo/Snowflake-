@@ -132,7 +132,4 @@ Add predictive modeling for sales forecasting.
 
 Enhance dashboard interactivity with more filters.
 
-Author
 
-
-[Your Name][Your Contact Information]
