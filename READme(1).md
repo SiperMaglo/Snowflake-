@@ -42,7 +42,7 @@ Apache Airflow / Cron Jobs (For automation - optional)
 
 Project Steps
 
-1️⃣ Data Collection & Storage
+ Data Collection & Storage
 
 Load the dataset from sales_data.csv.
 
@@ -50,7 +50,7 @@ Store data in PostgreSQL or MySQL for structured querying (optional but recommen
 
 If using an API, write a Python script to extract and store data.
 
-2️⃣ Data Cleaning & Transformation
+Data Cleaning & Transformation
 
 Handle missing values (e.g., fill NA, drop duplicates).
 
@@ -62,7 +62,7 @@ Create a Total Revenue column (Quantity * Unit Price).
 
 Standardize categorical values (e.g., Region names).
 
-3️⃣ Exploratory Data Analysis (EDA)
+Exploratory Data Analysis (EDA)
 
 Compute summary statistics (mean, median, min, max, etc.).
 
@@ -72,7 +72,7 @@ Determine top-selling products and best-performing regions.
 
 Visualize customer segmentation patterns.
 
-4️⃣ Dashboard Development
+ Dashboard Development
 
 Use Power BI / Tableau / Streamlit to create:
 
@@ -86,7 +86,7 @@ Customer Segments (Pie Chart)
 
 Ensure dynamic filtering and interactivity.
 
-5️⃣ Automation (Optional Bonus Task)
+ Automation (Optional Bonus Task)
 
 Automate data refresh using Python scripts or SQL queries.
 
@@ -133,5 +133,6 @@ Add predictive modeling for sales forecasting.
 Enhance dashboard interactivity with more filters.
 
 Author
+
 
 [Your Name][Your Contact Information]
